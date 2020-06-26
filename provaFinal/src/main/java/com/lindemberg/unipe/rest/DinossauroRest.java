@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.lindemberg.unipe.domain.Dinossauro;
 import com.lindemberg.unipe.service.DinossauroService;
-import com.rodrigofujioka.dev.web.domain.Dinossauro;
 
 @RestController
 @RequestMapping("/api")
